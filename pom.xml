@@ -36,7 +36,6 @@
 	</dependencies>
 
 	<build>
-	<finalname>Myservices</finalname>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
