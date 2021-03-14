@@ -1,10 +1,10 @@
-package tech.gratian.cicdpipeline;
+package tech.gratian.mavenapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CicdpipelineApplicationTests {
+class MavenappApplicationTests {
 
 	@Test
 	void contextLoads() {

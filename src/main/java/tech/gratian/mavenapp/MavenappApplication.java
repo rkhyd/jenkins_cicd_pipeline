@@ -1,13 +1,13 @@
-package tech.gratian.cicdpipeline;
+package tech.gratian.mavenapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CicdpipelineApplication {
+public class MavenappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CicdpipelineApplication.class, args);
+		SpringApplication.run(MavenappApplication.class, args);
 	}
 
 }
